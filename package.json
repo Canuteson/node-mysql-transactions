@@ -1,0 +1,13 @@
+{
+  "name": "node-mysql-transaction",
+  "version": "1.0.0",
+  "description": "Transactional mysql operations",
+  "main": "index.js",
+  "author": "Canuteson",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": ">=3.5.1",
+    "mysql-promise": ">=4.1.0",
+    "mysql2": ">=1.5.3"
+  }
+}
